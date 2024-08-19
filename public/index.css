@@ -1,7 +1,7 @@
 .twitter-share-button,
 .twitter-share-button:hover {
     display: inline-block;
-    background-color: #1DA1F2;
+    background-color: #c41df2;
     border-radius: 9999px;
     color: white;
     text-decoration: none;
@@ -12,7 +12,9 @@
     height: 28px;
     font-weight: 500;
 }
-
+nav.navbar.navbar-expand-lg.bg-primary.navbar-dark {
+    background-color: #c41df2;
+}
 .twitter-share-button span {
     margin-left: 3px;
 }
