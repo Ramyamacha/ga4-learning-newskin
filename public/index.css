@@ -1,7 +1,7 @@
 .twitter-share-button,
 .twitter-share-button:hover {
     display: inline-block;
-    background-color: #720a8f;
+    background-color: #720a8f !important;
     border-radius: 9999px;
     color: white;
     text-decoration: none;
